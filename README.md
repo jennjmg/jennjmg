@@ -26,7 +26,7 @@ Analista de Datos con background en gestión comercial e inmobiliaria, con pasi�
 
 📬 Contacto  
 ✉️ jennifer-morales@hotmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/tu-usuario-linkedin)  
+🔗 [LinkedIn](https://www.linkedin.com/in/jennifer-morales-g/)  
 🐙 [GitHub](https://github.com/jennjmg)
 
 🎨 Fun Fact  
