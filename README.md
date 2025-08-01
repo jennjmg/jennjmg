@@ -18,11 +18,6 @@ Analista de Datos con background en gestión comercial e inmobiliaria, con pasi�
 - Storytelling con dashboards  
 - Mentalidad orientada al usuario final y al impacto
 
-🚀 Algunos proyectos destacados:
-- **Alquileres BCN** 📉 – Análisis del mercado de alquileres en Barcelona para detectar patrones y evolución de precios.
-- **Riesgo de crédito** 💳 – Evaluación de datos financieros para predecir probabilidad de impago (Power BI + Python).
-- **Dashboard Interactivo** 📊 – Seguimiento de KPIs comerciales a tiempo real en Power BI para toma de decisiones.
-
 
 📬 Contacto  
 ✉️ jennifer-morales@hotmail.com  
