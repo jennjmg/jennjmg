@@ -26,6 +26,7 @@ Analista de Datos con background en gestión comercial e inmobiliaria, con pasi�
 
 🎨 Fun Fact  
 También soy ilustradora, y cuando no estoy creando dashboards... ¡estoy haciendo tatuajes o diseños! 🖤
+https://yga.my.canva.site/
 
 ---
 
