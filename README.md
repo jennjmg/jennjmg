@@ -20,3 +20,4 @@ I focus on turning data into decisions, not just visualizations.
 
 ## Contact
 LinkedIn: https://www.linkedin.com/in/jennifer-morales-g/
+
