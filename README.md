@@ -1,4 +1,4 @@
-# Hi, Jenn here! 👋  
+# Hi, Jenn here! 👋 
 ## About me
 Business Intelligence Analyst with experience in Power BI, SQL and data modeling in real business environments (automotive & operations).
 
