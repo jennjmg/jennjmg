@@ -1,23 +1,41 @@
 # Hi, Jenn here! 👋 
+# Hi, Jenn here! 👋
+
 ## About me
-Business Intelligence Analyst with experience in Power BI, SQL and data modeling in real business environments (automotive & operations).
+Business Intelligence Analyst focused on translating data into actionable business decisions.
 
-Focused on:
-- Automating reporting processes
-- Improving data quality and consistency
-- Building dashboards aligned with business decisions
+I have experience building end-to-end data solutions in real business environments (automotive & operations), with a strong focus on data quality, automation, and decision-oriented dashboards.
 
-## Tools 
-Power BI · SQL · Power Query · Excel · Python · Tableau
+I’m interested in evolving towards more advanced analytics and data-driven strategy roles, combining technical skills with business impact.
 
-## Projects
-- Marketing Analytics Dashboard → ROI, funnel performance and campaign optimization
-- Ecommerce Dashboard → revenue tracking and performance analysis
-- Football Talent Clustering → segmentation model using PCA & KMeans
+## What I focus on
+- Designing automated reporting systems to reduce manual work  
+- Ensuring data quality and consistency across processes  
+- Building dashboards that directly support decision-making  
 
-## Impact mindset
-I focus on turning data into decisions, not just visualizations.
+## Core tools
+Power BI · SQL · Power Query · Python · R · Excel · Tableau  
+
+## Selected project
+### From Prospects to Stars – Talent Prediction Model
+End-to-end analysis and segmentation of +187K football players to identify high-potential profiles.
+
+- Data cleaning (Python): 187K rows, 163 columns, ~4.5% missing values, ~40% variables reduced  
+- Exploratory analysis (EDA): pattern detection by year, nationality and position  
+- Modeling: PCA (82% explained variance) + K-Means (4 clusters)  
+- Validation: silhouette score of 0.35  
+- Key insight: ~30% of players identified as high-potential prospects  
+- Output: interactive dashboards in Power BI + visual storytelling for non-technical stakeholders  
+
+📌 Business impact: model applicable to scouting decisions, performance comparison and talent identification.
+
+## Mindset
+I build data products that help businesses act, not just observe.
+
+## Beyond data
+I also work as a tattoo artist, where I develop creativity, visual thinking, and client-focused design.
+
+🎨 Portfolio: https://yga.my.canva.site/
 
 ## Contact
 LinkedIn: https://www.linkedin.com/in/jennifer-morales-g/
-
