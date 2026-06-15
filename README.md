@@ -1,4 +1,3 @@
-# Hi, Jenn here! 👋 
 # Hi, Jenn here! 👋
 
 ## About me
@@ -33,8 +32,7 @@ End-to-end analysis and segmentation of +187K football players to identify high-
 I build data products that help businesses act, not just observe.
 
 ## Beyond data
-I also work as a tattoo artist, where I develop creativity, visual thinking, and client-focused design.
-
+In addition to my analytical work, I develop my creative side as an illustrator—an ability that strongly enhances my approach to data visualization and communication.
 🎨 Portfolio: https://yga.my.canva.site/
 
 ## Contact
