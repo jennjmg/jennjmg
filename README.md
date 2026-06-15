@@ -7,7 +7,7 @@ Focused on:
 - Improving data quality and consistency
 - Building dashboards aligned with business decisions
 
-## Tools
+## Tools 
 Power BI · SQL · Power Query · Excel · Python · Tableau
 
 ## Projects
