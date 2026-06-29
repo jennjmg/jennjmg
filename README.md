@@ -1,4 +1,4 @@
-# Hi, Jenn here! 👋
+# Hi, Jenn here! 📎
 
 ## About me
 Business Intelligence Analyst focused on translating data into actionable business decisions.
