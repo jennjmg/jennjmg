@@ -73,3 +73,6 @@ https://yga.my.canva.site/
 
 LinkedIn:
 https://www.linkedin.com/in/jennifer-morales-g/
+
+Mail:
+jennifer-morales@hotmail.com
