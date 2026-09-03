@@ -1,4 +1,6 @@
-
+<p align="center">
+https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=50&duration=3000&pause=1500&color=7A1F44&center=true&vCenter=true&repeat=true&width=800&height=90&lines=Jennifer+Morales
+</p>
 
 <p align="center">
   💼 <a href="https://www.linkedin.com/in/jennifer-morales-g/">LinkedIn</a>
@@ -66,20 +68,38 @@ I build solutions that help organizations:
 
 <p align="center">
 
-https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black
+ <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
 
-https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge
 
-https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge
+<p align="center">
 
-<img src="https://img.shields.io/b36791?style=for-the-badge&logo=postgresql&logoColor=white
+ <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge" />
+</p>
 
-https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white
+<p align="center">
 
-https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white
+ <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge" />
+</p>
 
-https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white
+<p align="center">
 
+ <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+<p align="center">
+
+ <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+</p>
+
+<p align="center">
+
+ <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
+
+<p align="center">
+
+ <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" />
 </p>
 
 ---
