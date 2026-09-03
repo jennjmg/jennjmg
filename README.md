@@ -162,11 +162,6 @@ https://www.linkedin.com/in/jennifer-morales-g/
 📧 Email  
 jennifer-morales@hotmail.com
 
-💻 GitHub  
-https://github.com/jennjmg
-
-🎨 Portfolio  
-https://yga.my.canva.site/
 
 
 
