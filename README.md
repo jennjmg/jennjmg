@@ -28,7 +28,7 @@
 
 
 ---
-# Cast
+# CAST
 
 ## Sobre mí
 
@@ -174,7 +174,7 @@ https://yga.my.canva.site/
 ---
 
 
-# Eng
+# ENG
 
 ## About Me
 
