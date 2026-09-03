@@ -1,6 +1,4 @@
-<p align="center">
-https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=50&duration=3000&pause=1500&color=7A1F44&center=true&vCenter=true&repeat=true&width=800&height=90&lines=Jennifer+Morales
-</p>
+
 
 <p align="center">
   💼 <a href="https://www.linkedin.com/in/jennifer-morales-g/">LinkedIn</a>
