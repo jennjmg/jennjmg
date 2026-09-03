@@ -62,43 +62,30 @@ I build solutions that help organizations:
 
 ## Core Technologies
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
+## Core Technologies
 
 <p align="center">
-
  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
-
-
 <p align="center">
-
- <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge" />
+ <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" />
 </p>
-
 <p align="center">
-
- <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge" />
+ <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
 </p>
-
 <p align="center">
-
- <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+ <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
-
 <p align="center">
-
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+<p align="center">
  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
-
 <p align="center">
-
- <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+ <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </p>
-
 <p align="center">
-
  <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" />
 </p>
 
