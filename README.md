@@ -1,5 +1,26 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,50:742774,100:F2C811&height=220&section=header&text=Jennifer%20Morales&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Business%20Intelligence%20%7C%20Power%20Platform%20%7C%20Automation%20%7C%20AI&descAlignY<h1 align="center">Hi, I'm Jennifer 👋</h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24&text=Jennifer%20Morales&fontSize=55&fontColor=ffffff&animation=twinkling&desc=Business%20Intelligence%20%7C%20Automation%20%7C%20Power%20Platform%20%7C%20AI&descAlignY=62"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=24&duration=3500&pause=1200&color=742774&center=true&vCenter=true&width=900&lines=Turning+business+challenges+into+practical+solutions;Business+Intelligence+%7C+Automation+%7C+AI;Building+solutions+that+drive+action;Connecting+people%2C+processes+and+forming+information+into+decisions
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jennifer-morales-g/">💼 LinkedIn</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/jennjmg">💻
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="mailto:jennifer-morales@hotmail.com">📧 Email</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://yga.my.canva.site/">🎨 Portfolio</a>
+</p>
+
+<h3 align="center">
+Helping organizations work smarter through Data, Automation & AI
+</h3>
+
+
 
 <p align="center">
 📍 Barcelona <br>
