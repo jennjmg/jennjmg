@@ -1,24 +1,24 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24&text=Jennifer%20Morales&fontSize=55&fontColor=ffffff&animation=twinkling&desc=Business%20Intelligence%20%7C%20Automation%20%7C%20Power%20Platform%20%7C%20AI&descAlignY=62"/>
+  https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=50&duration=3000&pause=1500&color=7A1F44&center=true&vCenter=true&repeat=true&width=800&height=90&lines=Jennifer+Morales
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=24&duration=3500&pause=1200&color=742774&center=true&vCenter=true&width=900&lines=Turning+business+challenges+into+practical+solutions;Business+Intelligence+%7C+Automation+%7C+AI;Building+solutions+that+drive+action;Connecting+people%2C+processes+and+forming+information+into+decisions
+  <strong>Business Intelligence · Process Automation · Data & AI</strong>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jennifer-morales-g/">💼 LinkedIn</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://github.com/jennjmg">💻
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="mailto:jennifer-morales@hotmail.com">📧 Email</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://yga.my.canva.site/">🎨 Portfolio</a>
+  💼 <a href="https://www.linkedin.com/in/jennifer-morales-g/">LinkedIn</a>
+  ·
+  💻 <a href="https://github.com/jennjmg"GitHub</a>
+  ·
+  📧 <a href="mailto:jennifer-morales@hotmail.com">Email</a>
+  ·
+  🎨 <a href="https://yga.my.canva.site/">Portfolio</a>
 </p>
 
-<h3 align="center">
-Helping organizations work smarter through Data, Automation & AI
-</h3>
+<p align="center">
+  <em>Turning business challenges into measurable impact through Data, Automation & AI.</em>
+</p>
 
 
 
@@ -28,22 +28,6 @@ Helping organizations work smarter through Data, Automation & AI
 📊 Power BI | Power Platform | AI <br>
 🎨 Data + Creativity <br>
 🌍 Open to Data, BI, Analytics & AI opportunities
-</p>
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/jennifer-morales-g/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badgeedin&logoColor=white
-</a>
-
-<a href="mailto:jennifer-morales@hotmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.mg
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-theo=github&logoColor=white
-</a>
-
 </p>
 
 ---
@@ -82,21 +66,25 @@ I build solutions that help organizations:
 
 ## Core Technologies
 
-<p align="left">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
-https://skillicons.dev/icons?i=python
+<p align="center">
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&bi&logoColor=black
+https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black
 
-<img src="https://img.shields.io/badge/Power74?style=for-the-badge
+https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge
 
-<img src="https://img.shields.io/badge/Power_Automateyle=for-the-badge
+https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge
 
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white="https://img.shields.io/badge/Tableauyle=for-the-badge&logo=tableau&logoColor=white
+<img src="https://img.shields.io/b36791?style=for-the-badge&logo=postgresql&logoColor=white
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-theo=microsoft-excel&logoColor=white
+https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white
 
-<img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badgeosoftsharepoint&logoColor=white
+https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white
+
+https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white
 
 </p>
 
