@@ -91,7 +91,7 @@ I build solutions that help organizations:
 
 ## Highlights
 
-🏢 4+ years delivering BI, Reporting and Automation solutions
+🏢 3+ years delivering BI, Reporting and Automation solutions
 
 📊 Executive dashboards supporting financial and commercial decision-making
 
