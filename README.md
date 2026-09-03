@@ -12,15 +12,15 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/jennifer-morales-g/">
-  <img src="https://s.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badgeedin&logoColor=white
 </a>
 
 <a href="mailto:jennifer-morales@hotmail.com">
-  https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://github.com/jennjmg?tab=repositories">
-  <img src="https://img.shields.io/badge181717?style=for-the-badge&logo=github&logoColor=white
+<a href="https://github.mg
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-theo=github&logoColor=white
 </a>
 
 </p>
