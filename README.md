@@ -1,78 +1,128 @@
-# Hi, Jenn here! 📎
+# Hola, soy Jennifer 👋
 
-## About Me
+Ayudo a transformar procesos, datos e información dispersa en soluciones que realmente facilitan el trabajo de las personas.
 
-Business Intelligence, Power Platform and Process Automation professional focused on turning business challenges into practical, data-driven solutions.
+Mi camino profesional no empezó programando ni construyendo dashboards. Empezó haciendo preguntas, entendiendo cómo trabajan los equipos, detectando ineficiencias y buscando formas más inteligentes de hacer las cosas.
 
-I have experience delivering end-to-end solutions in real business environments, combining analytics, automation, reporting and application development to improve decision-making, optimize processes and create measurable business value.
+Hoy trabajo en la intersección entre Business Intelligence, Automatización, Power Platform e Inteligencia Artificial, construyendo soluciones que convierten problemas cotidianos en procesos más simples, decisiones más rápidas y organizaciones más eficientes.
 
-My interests lie at the intersection of Business Intelligence, Business Analysis, Digital Transformation and Power Platform, where technology becomes a tool for solving real operational challenges.
-
----
-
-## What I Focus On
-
-• Designing and automating business processes through Microsoft Power Platform  
-• Designing automated reporting systems to reduce manual work  
-• Ensuring data quality and consistency across processes  
-• Building dashboards that directly support decision-making  
+Me interesa especialmente todo aquello que conecta tecnología y negocio, porque los mejores resultados no aparecen cuando implementamos más herramientas, sino cuando conseguimos que las personas trabajen mejor gracias a ellas.
 
 ---
 
-## Core Tools
+## Actualmente enfocada en
 
-Power BI · Power Apps · Power Automate · SQL · Power Query · Python · R · Excel · Tableau · SharePoint
+📊 Business Intelligence & Analytics
 
----
+⚡ Automatización de procesos con Power Platform
 
-## Selected Projects
+🤖 IA aplicada a productividad y toma de decisiones
 
-### Vacation Management Power Platform Solution
+🔎 Business Analysis y mejora continua
 
-End-to-end HR process automation solution built with Microsoft Power Platform.
+🚀 Transformación digital
 
-• Power Apps application for vacation request management  
-• SharePoint as a centralized data source  
-• Power Automate workflows for approvals and notifications  
-• Power BI dashboards for operational reporting and workforce planning  
-• Data modeling and DAX measures for business analytics  
-
-📌 Business impact: improved visibility, reduced administrative workload, automated communication and supported workforce planning.
-
-### From Prospects to Stars – Talent Prediction Model
-
-End-to-end analysis and segmentation of 187K+ football players to identify high-potential profiles.
-
-• Data cleaning (Python): 187K rows, 163 columns, ~4.5% missing values, ~40% variable reduction  
-• Exploratory analysis (EDA): pattern detection by year, nationality and position  
-• Modeling: PCA (82% explained variance) + K-Means (4 clusters)  
-• Validation: silhouette score of 0.35  
-• Key insight: ~30% of players identified as high-potential prospects  
-• Output: interactive Power BI dashboards and visual storytelling for non-technical stakeholders  
-
-📌 Business impact: model applicable to scouting decisions, performance comparison and talent identification.
+🎨 Visualización de datos y comunicación visual
 
 ---
 
-## Mindset
+## Lo que hago
 
-I build data products that help businesses act, not just observe.
+✅ Transformo necesidades de negocio en soluciones tecnológicas utilizables
+
+✅ Diseño ecosistemas de reporting para apoyar decisiones operativas y estratégicas
+
+✅ Automatizo procesos manuales mediante Power Apps y Power Automate
+
+✅ Conecto personas, procesos y datos para reducir fricción e ineficiencias
+
+✅ Creo dashboards que impulsan acción, no solo visualizaciones
+
+✅ Traduzco información compleja en conocimiento comprensible
 
 ---
 
-## Beyond Data
+## Highlights
 
-Alongside my analytical work, I develop my creative side as an illustrator. This perspective strongly influences the way I approach data visualization, communication and user experience design.
+🏢 3+ years delivering BI & automation solutions
+
+📊 Dashboards utilizados para seguimiento comercial, financiero y operativo
+
+⚡ Automatización de procesos mediante Power Platform
+
+🤖 Explorando IA aplicada a analítica y productividad
+
+🎨 Ilustradora con enfoque en storytelling visual y experiencia de usuario
+
+---
+
+## Proyecto Destacado
+
+### * Vacation Management Platform
+
+Solución integral desarrollada con Microsoft Power Platform para digitalizar y automatizar la gestión de vacaciones.
+
+#### Impacto
+
+- Automatización de solicitudes y aprobaciones
+- Reducción de trabajo administrativo manual
+- Centralización de datos y trazabilidad
+- Mejora de la planificación de equipos
+- Reporting en tiempo real mediante Power BI
+
+#### Tecnologías
+
+Power Apps · Power Automate · SharePoint · Power BI · DAX
+
+
+
+
+
+### * From Prospects to Stars
+
+Proyecto de analítica avanzada orientado a identificar talento futbolístico de alto potencial a partir de más de 187.000 registros.
+
+#### Impacto
+
+- Segmentación avanzada de perfiles
+- Modelos predictivos para scouting
+- Identificación de talento emergente
+- Storytelling de datos para perfiles no técnicos
+
+#### Tecnologías
+
+Python · Power BI · PCA · K-Means · SQL
+
+---
+
+## Mi filosofía
+
+No me interesa construir dashboards por construir dashboards.
+
+Me interesa crear soluciones que ayuden a las personas a decidir mejor, ahorrar tiempo y concentrarse en aquello que realmente genera valor.
+
+La tecnología es el medio.
+
+El impacto es el objetivo.
+
+---
+
+## Más allá de los datos
+
+Además de mi faceta analítica, desarrollo proyectos creativos como ilustradora.
+
+Esta combinación influye directamente en cómo diseño dashboards, comunico insights y construyo experiencias digitales: siempre buscando claridad, equilibrio y comprensión.
 
 🎨 Portfolio:
 https://yga.my.canva.site/
 
 ---
 
-## Contact
+## Conectemos
 
-LinkedIn:
-https://www.linkedin.com/in/jennifer-morales-g/
+💼 LinkedIn https://www.linkedin.com/in/jennifer-morales-g/
 
-Mail:
-jennifer-morales@hotmail.com
+📧 Email jennifer-morales@hotmail.com
+
+📂 GitHub https://github.com/jennjmg?tab=repositories
+
