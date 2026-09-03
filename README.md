@@ -1,128 +1,156 @@
-# Hola, soy Jennifer 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,50:742774,100:F2C811&height=220&section=header&text=Jennifer%20Morales&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Business%20Intelligence%20%7C%20Power%20Platform%20%7C%20Automation%20%7C%20AI&descAlignY<h1 align="center">Hi, I'm Jennifer 👋</h1>
 
-Ayudo a transformar procesos, datos e información dispersa en soluciones que realmente facilitan el trabajo de las personas.
+<p align="center">
+📍 Barcelona <br>
+💼 BI Reporting & Process Automation <br>
+📊 Power BI | Power Platform | AI <br>
+🎨 Data + Creativity <br>
+🌍 Open to Data, BI, Analytics & AI opportunities
+</p>
 
-Mi camino profesional no empezó programando ni construyendo dashboards. Empezó haciendo preguntas, entendiendo cómo trabajan los equipos, detectando ineficiencias y buscando formas más inteligentes de hacer las cosas.
+<p align="center">
 
-Hoy trabajo en la intersección entre Business Intelligence, Automatización, Power Platform e Inteligencia Artificial, construyendo soluciones que convierten problemas cotidianos en procesos más simples, decisiones más rápidas y organizaciones más eficientes.
+<a href="https://www.linkedin.com/in/jennifer-morales-g/">
+  <img src="https://s.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+</a>
 
-Me interesa especialmente todo aquello que conecta tecnología y negocio, porque los mejores resultados no aparecen cuando implementamos más herramientas, sino cuando conseguimos que las personas trabajen mejor gracias a ellas.
+<a href="mailto:jennifer-morales@hotmail.com">
+  https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
+</a>
+
+<a href="https://github.com/jennjmg?tab=repositories">
+  <img src="https://img.shields.io/badge181717?style=for-the-badge&logo=github&logoColor=white
+</a>
+
+</p>
 
 ---
 
-## Actualmente enfocada en
+## About Me
 
-📊 Business Intelligence & Analytics
+I'm a Business Intelligence and Process Automation professional passionate about turning complex business challenges into practical solutions.
 
-⚡ Automatización de procesos con Power Platform
+Over the last years, I've worked across reporting, analytics, process optimization and Power Platform development, helping organizations make better decisions, automate repetitive work and gain visibility into their operations.
 
-🤖 IA aplicada a productividad y toma de decisiones
+Today I'm especially interested in the intersection of:
 
-🔎 Business Analysis y mejora continua
-
-🚀 Transformación digital
-
-🎨 Visualización de datos y comunicación visual
+- 📊 Data Analytics
+- 🤖 Artificial Intelligence
+- 📈 Business Intelligence
+- ⚡ Process Automation
+- 🚀 Digital Transformation
 
 ---
 
-## Lo que hago
+## What I Build
 
-✅ Transformo necesidades de negocio en soluciones tecnológicas utilizables
+I build solutions that help organizations:
 
-✅ Diseño ecosistemas de reporting para apoyar decisiones operativas y estratégicas
+✅ Reduce manual work
 
-✅ Automatizo procesos manuales mediante Power Apps y Power Automate
+✅ Improve decision-making
 
-✅ Conecto personas, procesos y datos para reducir fricción e ineficiencias
+✅ Increase operational visibility
 
-✅ Creo dashboards que impulsan acción, no solo visualizaciones
+✅ Automate business processes
 
-✅ Traduzco información compleja en conocimiento comprensible
+✅ Transform data into business actions
+
+---
+
+## Core Technologies
+
+<p align="left">
+
+https://skillicons.dev/icons?i=python
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&bi&logoColor=black
+
+<img src="https://img.shields.io/badge/Power74?style=for-the-badge
+
+<img src="https://img.shields.io/badge/Power_Automateyle=for-the-badge
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white="https://img.shields.io/badge/Tableauyle=for-the-badge&logo=tableau&logoColor=white
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-theo=microsoft-excel&logoColor=white
+
+<img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badgeosoftsharepoint&logoColor=white
+
+</p>
 
 ---
 
 ## Highlights
 
-🏢 3+ years delivering BI & automation solutions
+🏢 4+ years delivering BI, Reporting and Automation solutions
 
-📊 Dashboards utilizados para seguimiento comercial, financiero y operativo
+📊 Executive dashboards supporting financial and commercial decision-making
 
-⚡ Automatización de procesos mediante Power Platform
+⚡ Process automation through Power Apps and Power Automate
 
-🤖 Explorando IA aplicada a analítica y productividad
+🤖 Exploring AI-assisted analytics and intelligent workflows
 
-🎨 Ilustradora con enfoque en storytelling visual y experiencia de usuario
+🎨 Illustrator bringing storytelling principles into data visualization
 
 ---
 
-## Proyecto Destacado
+## Featured Projects
 
-### * Vacation Management Platform
+### Vacation Management Platform
 
-Solución integral desarrollada con Microsoft Power Platform para digitalizar y automatizar la gestión de vacaciones.
+End-to-end HR solution built with Microsoft Power Platform to automate vacation requests, approvals and workforce planning.
 
-#### Impacto
+**Business Impact**
 
-- Automatización de solicitudes y aprobaciones
-- Reducción de trabajo administrativo manual
-- Centralización de datos y trazabilidad
-- Mejora de la planificación de equipos
-- Reporting en tiempo real mediante Power BI
+- Reduced administrative workload
+- Automated approvals and notifications
+- Centralized employee request management
+- Improved workforce visibility
+- Real-time Power BI reporting
 
-#### Tecnologías
+**Tech Stack**
 
 Power Apps · Power Automate · SharePoint · Power BI · DAX
 
+---
 
+### From Prospects to Stars
 
+Data-driven talent identification model built on 187K+ football player records.
 
+**Key Achievements**
 
-### * From Prospects to Stars
+- Data cleaning and transformation with Python
+- PCA explaining 82% of variance
+- K-Means segmentation model
+- Interactive Power BI storytelling dashboards
+- Identification of high-potential talent segments
 
-Proyecto de analítica avanzada orientado a identificar talento futbolístico de alto potencial a partir de más de 187.000 registros.
+**Tech Stack**
 
-#### Impacto
-
-- Segmentación avanzada de perfiles
-- Modelos predictivos para scouting
-- Identificación de talento emergente
-- Storytelling de datos para perfiles no técnicos
-
-#### Tecnologías
-
-Python · Power BI · PCA · K-Means · SQL
+Python · Power BI · Machine Learning · PCA · K-Means
 
 ---
 
-## Mi filosofía
+## Beyond Data
 
-No me interesa construir dashboards por construir dashboards.
+Beyond analytics, I'm also an illustrator and visual creator.
 
-Me interesa crear soluciones que ayuden a las personas a decidir mejor, ahorrar tiempo y concentrarse en aquello que realmente genera valor.
-
-La tecnología es el medio.
-
-El impacto es el objetivo.
-
----
-
-## Más allá de los datos
-
-Además de mi faceta analítica, desarrollo proyectos creativos como ilustradora.
-
-Esta combinación influye directamente en cómo diseño dashboards, comunico insights y construyo experiencias digitales: siempre buscando claridad, equilibrio y comprensión.
+This creative background influences how I build dashboards, communicate insights and design user experiences, helping bridge the gap between technical solutions and business understanding.
 
 🎨 Portfolio:
 https://yga.my.canva.site/
 
 ---
 
-## Conectemos
+## Connect With Me
 
-💼 LinkedIn https://www.linkedin.com/in/jennifer-morales-g/
+💼 LinkedIn  
+https://www.linkedin.com/in/jennifer-morales-g/
 
-📧 Email jennifer-morales@hotmail.com
+📂 GitHub Projects  
+https://github.com/jennjmg
 
-📂 GitHub https://github.com/jennjmg?tab=repositories
-
+📧 Email  
+jennifer-morales@hotmail.com
