@@ -13,72 +13,34 @@
 </p>
 
 <p align="center">
-  <em>Turning business challenges into measurable impact through Data, Automation & AI.</em>
+  <em>Data by day, illustrator by heart.</em>
 </p>
 
 
+---
 
 <p align="center">
-📍 Barcelona <br>
-🪄 BI Reporting & Process Automation <br>
-📊 Power BI | Power Platform | AI <br>
-🎨 Data + Creativity <br>
-🌍 Open to Data, BI, Analytics & AI opportunities
+🏢 +3 años diseñando soluciones de BI, Reporting y Automatización de procesos
 </p>
-
-
----
-
-## Sobre mí
-
-Llevo 3+ años convirtiendo procesos manuales en dashboards y flujos automatizados con Power Platform. Antes de trabajar con datos, dibujaba; esa costumbre de pensar en historias visuales es lo que hace que mis dashboards no solo funcionen, se entiendan a la primera.
-
-Ahora mismo estoy metiéndole mano a la IA aplicada al análisis y la productividad.
-
----
-
-## Cómo genero impacto
-
-Diseño e implemento soluciones que ayudan a las organizaciones a:
-
-✅ Reducir trabajo manual y tareas repetitivas
-
-✅ Mejorar la toma de decisiones mediante datos
-
-✅ Incrementar la visibilidad operativa y el control de procesos
-
-✅ Automatizar flujos de trabajo y operaciones de negocio
-
-✅ Convertir datos en acciones de alto valor
+<p align="center">  
+📊 Cuadros de mando y modelos analíticos que sostienen decisiones financieras y comerciales
+</p>
+<p align="center">
+⚡ Automatización end-to-end con Power Apps y Power Automate. Menos tareas repetitivas, más visibilidad operativa
+</p>
+<p align="center">  
+🤖 Explorando IA aplicada al análisis y la productividad
+</p>
+<p align="center">  
+🌿 Ilustradora. Aplico storytelling visual al diseño de dashboards
+</p>
 
 ---
 
 ## Tecnologías principales
 
-<p align="center">
- <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</p>
-<p align="center">
- <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" />
-</p>
-<p align="center">
- <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
-</p>
-<p align="center">
- <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-</p>
-<p align="center">
- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-<p align="center">
- <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-</p>
-<p align="center">
- <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-</p>
-<p align="center">
- <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" />
-</p>
+
+ <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" /> <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" /> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" />
 
 ---
 
@@ -122,12 +84,9 @@ Python · Power BI · Machine Learning · PCA · K-Means
 
 ## Más allá de los datos
 
-Además de mi trabajo en analítica y automatización, desarrollo mi faceta creativa como ilustradora y creadora visual.
+Antes de dominar DAX, dominaba el lápiz. Esa jerarquía visual que aprendí dibujando es la que aplico en cada dashboard: primero lo importante, después el resto.
 
-Esta combinación entre análisis y creatividad influye directamente en mi forma de diseñar dashboards, comunicar información y construir experiencias más intuitivas para los usuarios, ayudando a conectar la tecnología con las necesidades reales del negocio.
-
-🎨 Portfolio:
-https://yga.my.canva.site/
+🎨 Portfolio: https://yga.my.canva.site/
 
 ---
 
