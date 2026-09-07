@@ -1,11 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=42&duration=3000&pause=1500&color=6E2036&center=true&vCenter=true&repeat=true&width=700&height=60&lines=Hola,+soy+Jenn+:)" 
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=42&duration=3000&pause=1500&color=6E2036&center=true&vCenter=true&repeat=true&width=700&height=60&lines=Hi,+I'm+Jenn+:)" 
 </p>
     
 <p align="center">
   💼 <a href="https://www.linkedin.com/in/jennifer-morales-g/">LinkedIn</a>
-  ·
-  💻 <a href="https://github.com/jennjmg">GitHub</a>
   ·
   📧 <a href="mailto:jennifer-morales@hotmail.com">Email</a>
   ·
@@ -13,7 +11,7 @@
 </p>
 
 <p align="center">
-  <em>Data by day, illustrator by heart.</em>
+  <em>Data by day, creativity by heart.</em>
 </p>
 
 
@@ -35,67 +33,74 @@
 🌿 Ilustradora. Aplico storytelling visual al diseño de dashboards
 </p>
 
----
-
-## Tecnologías principales
 
 
- <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" /> <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" /> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" />
+## Tech Stack
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qlik-009845?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dataverse-742774?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white" />
+  <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Procreate-000000?style=for-the-badge&logo=procreate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white" />
+</p>
 
-## Proyectos destacados
 
-### * Plataforma de Gestión de Vacaciones
 
-Solución integral desarrollada con Microsoft Power Platform para digitalizar y automatizar la gestión de solicitudes de vacaciones, aprobaciones y planificación de equipos.
+## Featured Projects
 
-**Impacto generado**
+### *Vacation Management Platform
+End-to-end solution built with Microsoft Power Platform to digitize and automate vacation requests, approvals and team planning.
 
-- Reducción de la carga administrativa
-- Automatización de aprobaciones y notificaciones
-- Centralización de la gestión de solicitudes
-- Mayor visibilidad sobre la planificación de recursos
-- Seguimiento y reporting en tiempo real mediante Power BI
+**Impact**
+- Reduced administrative workload
+- Automated approvals and notifications
+- Centralized request management
+- Increased visibility into resource planning
+- Real-time reporting via Power BI
 
-**Tecnologías**
+**Tech:** Power Apps · Power Automate · SharePoint · Power BI · DAX
 
-Power Apps · Power Automate · SharePoint · Power BI · DAX
+### *From Prospects to Stars
+Analytical model for identifying football talent, built on 187K+ player records.
 
----
+**Key achievements**
+- Data cleaning and transformation with Python
+- PCA explaining 82% of variance
+- K-Means segmentation model
+- Interactive Power BI dashboards
+- Identification of high-potential profiles
 
-### * De Promesas a Estrellas
+**Tech:** Python · Power BI · Machine Learning · PCA · K-Means
 
-Modelo analítico para la identificación de talento futbolístico basado en más de 187K+ registros de jugadores.
 
-**Logros principales**
+## Beyond Data
 
-- Limpieza y transformación de datos con Python
-- Aplicación de PCA con un 82% de varianza explicada
-- Modelo de segmentación mediante K-Means
-- Desarrollo de dashboards interactivos en Power BI
-- Identificación de perfiles con alto potencial de desarrollo
-
-**Tecnologías**
-
-Python · Power BI · Machine Learning · PCA · K-Means
-
----
-
-## Más allá de los datos
-
-Antes de dominar DAX, dominaba el lápiz. Esa jerarquía visual que aprendí dibujando es la que aplico en cada dashboard: primero lo importante, después el resto.
+Before I mastered DAX, I mastered the pencil. That visual hierarchy I learned drawing is what I apply to every dashboard: what matters first, everything else after.
 
 🎨 Portfolio: https://yga.my.canva.site/
 
 ---
 
-## Contacto
+## Contact
 
-💼 LinkedIn  
-https://www.linkedin.com/in/jennifer-morales-g/
-
-📧 Email  
-jennifer-morales@hotmail.com
-
-ail.com
+💼 [LinkedIn](https://www.linkedin.com/in/jennifer-morales-g/)
+📧 [jennifer-morales@hotmail.com](mailto:jennifer-morales@hotmail.com)
