@@ -11,27 +11,34 @@
 </p>
 
 <p align="center">
-  <em>Data by day, creativity by heart.</em>
+  <em>I turn chaos into dashboards people actually use.</em>
 </p>
 
 
 ---
 
-<p align="center">
-🏢 +3 años diseñando soluciones de BI, Reporting y Automatización de procesos
-</p>
-<p align="center">  
-📊 Cuadros de mando y modelos analíticos que sostienen decisiones financieras y comerciales
-</p>
-<p align="center">
-⚡ Automatización end-to-end con Power Apps y Power Automate. Menos tareas repetitivas, más visibilidad operativa
-</p>
-<p align="center">  
-🤖 Explorando IA aplicada al análisis y la productividad
-</p>
-<p align="center">  
-🌿 Ilustradora. Aplico storytelling visual al diseño de dashboards
-</p>
+<table>
+<tr>
+<td><img src="https://img.shields.io/badge/-%20-4A1029?style=flat-square"/></td>
+<td>+3 years designing BI, reporting and process automation solutions</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/-%20-64182F?style=flat-square"/></td>
+<td>Dashboards and analytical models that support financial and commercial decisions</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/-%20-8C2F49?style=flat-square"/></td>
+<td>End-to-end automation with Power Apps and Power Automate. Less repetitive work, more operational visibility</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/-%20-B85670?style=flat-square"/></td>
+<td>Exploring AI applied to analysis and productivity</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/-%20-DA8CA0?style=flat-square"/></td>
+<td>Illustrator. Bringing visual storytelling into dashboard design</td>
+</tr>
+</table>
 
 
 
@@ -98,7 +105,7 @@ Before I mastered DAX, I mastered the pencil. That visual hierarchy I learned dr
 
 🎨 Portfolio: https://yga.my.canva.site/
 
----
+
 
 ## Contact
 
