@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <em>I turn chaos into dashboards people actually use.</em>
+  <em>I turn chaos into dashboards and apps people actually use.</em>
 </p>
 
 
