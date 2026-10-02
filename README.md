@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=42&duration=3000&pause=1500&color=6E2036&center=true&vCenter=true&repeat=true&width=700&height=60&lines=Hi,+I'm+Jenn+:)" 
 </p>
-    
+     
 <p align="center">
   💼 <a href="https://www.linkedin.com/in/jennifer-morales-g/">LinkedIn</a>
   ·
