@@ -17,13 +17,17 @@
 
 ---
 
-<table>
+
 +3 years designing BI, reporting and process automation solutions
+</p>
 Dashboards and analytical models that support financial and commercial decisions
+</p>
 End-to-end automation with Power Apps and Power Automate. Less repetitive work, more operational visibility
+</p>
 Exploring AI applied to analysis and productivity
+</p>
 Illustrator. Bringing visual storytelling into dashboard design
-</table>
+</p>
 
 
 
