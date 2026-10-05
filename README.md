@@ -18,26 +18,11 @@
 ---
 
 <table>
-<tr>
-<td><img src="https://img.shields.io/badge/-%20-4A1029?style=flat-square"/></td>
-<td>+3 years designing BI, reporting and process automation solutions</td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/-%20-64182F?style=flat-square"/></td>
-<td>Dashboards and analytical models that support financial and commercial decisions</td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/-%20-8C2F49?style=flat-square"/></td>
-<td>End-to-end automation with Power Apps and Power Automate. Less repetitive work, more operational visibility</td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/-%20-B85670?style=flat-square"/></td>
-<td>Exploring AI applied to analysis and productivity</td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/-%20-DA8CA0?style=flat-square"/></td>
-<td>Illustrator. Bringing visual storytelling into dashboard design</td>
-</tr>
++3 years designing BI, reporting and process automation solutions
+Dashboards and analytical models that support financial and commercial decisions
+End-to-end automation with Power Apps and Power Automate. Less repetitive work, more operational visibility
+Exploring AI applied to analysis and productivity
+Illustrator. Bringing visual storytelling into dashboard design
 </table>
 
 
